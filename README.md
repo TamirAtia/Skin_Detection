@@ -7,9 +7,9 @@ In this project we will deal with skin color in the image, we basically give the
 
 
 Code implementation:
-1. Grab video file on project folder
+1. Turn on the camera
 2. Use of imutils image processing functions for resizing
 3. Define the lower and upper boundaries for pixel intensities to be considered skin(boundaries are for the HSV color space)
 4. Use this kernel to perform two iterations of erosions and dilations, respectively to remove the small false-positive skin regions in the image
 5. Smooth the mask slightly using a Gaussian blur
-6. At the end display the resultsside-by-side view of the original frame along with the frame with skin detected in it
+6. At the end display the results side-by-side view of the original frame along with the frame with skin detected in it
