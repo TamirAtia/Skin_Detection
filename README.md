@@ -6,7 +6,7 @@ Python Final Project Skin Detection final project on Python and Computer vision 
 In this project we will deal with skin color in the image, we basically give the video type input program, and it blackens all colors not defined as skin color.
 
 
-Code implementation:
+how to start:
 1. Turn on the camera
 2. Use of imutils image processing functions for resizing
 3. Define the lower and upper boundaries for pixel intensities to be considered skin(boundaries are for the HSV color space)
