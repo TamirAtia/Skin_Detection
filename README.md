@@ -1,4 +1,4 @@
-# Skin_Detection
+# Skin Detection
 Python Final Project Skin Detection final project on Python and Computer vision course. Libraries: Opencv2, numpy, imutils
 
 <a href="https://ibb.co/5M92Hr4"><img src="https://i.ibb.co/w0LYmSg/pic1.jpg" alt="pic1" border="0" /></a>
